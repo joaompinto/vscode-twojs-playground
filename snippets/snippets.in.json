@@ -1,0 +1,14 @@
+{
+    "TwoJS Basic Shapes Example": {
+        "prefix": "twojs-basic-shapes",
+        "body": "@basic-shapes.js@"
+    },
+    "TwoJS Basic Shapes Group Example": {
+        "prefix": "twojs-basic-shapes-group",
+        "body": "@basic-shapes-group.js@"
+    },
+    "TwoJS Basic Shapes Motion Example": {
+        "prefix": "twojs-basic-shapes-motion",
+        "body": "@basic-shapes-motion.js@"
+    }
+}
