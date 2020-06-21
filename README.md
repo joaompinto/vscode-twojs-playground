@@ -22,11 +22,11 @@ Alternatively you can use the built-in extension browser to find the Two.JS by j
 - Press F1: (type: TwoKS...)
 
 
-## Using this extension from source
+## Using the extension from source
 
 ```bash
 git clone https://github.com/joaompinto/vscode-twojs-playground
-code vscode-doc-webview-blueprint
+code vscode-twojs-playground
 ```
 
 From VSCode:
