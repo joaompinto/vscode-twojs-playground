@@ -47,7 +47,7 @@
 				"language": "javascript",
 				"path": "./dist/snippets.json"
 			}
-		]		
+		]
 	},
 	"scripts": {
 		"compile": "tsc -p ./",

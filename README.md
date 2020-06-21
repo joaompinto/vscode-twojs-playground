@@ -19,7 +19,7 @@ Alternatively you can use the built-in extension browser to find the Two.JS by j
 - Press CTRL + N (To open a new file)
 - Press CTRL + K followed by M (Select "JavaScript")
 - Press CTRL + . (type: twojs and select a snippet)
-- Press F1: (type: TwoKS...)
+- Press F1: (type: TwoJS...)
 
 
 ## Using the extension from source
